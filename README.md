@@ -2,7 +2,7 @@
 
 This repository showcases the results of my work on **Weenix**, a Unix-like toy kernel.  
 The source code is not included (per course policy), but here you can find screenshots, recordings,  
-and explanations of the kernel features we (Group of 2) implemented as part of the semested long Kernel project of the course CSCI402 at USC.
+and explanations of the kernel features we (Group of 2) implemented as part of the semester long Kernel project of the course CSCI402 at USC.
 
 ---
 
